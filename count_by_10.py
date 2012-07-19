@@ -6,7 +6,7 @@ def __main():
 
     while number <= 1000000:
         print number
-        number += 5
+        number += 10
 
 
 
